@@ -1,2 +1,2 @@
-# Weather-
+# Weather
 FOR EDUCATIONAL PURPOSES ONLY 
